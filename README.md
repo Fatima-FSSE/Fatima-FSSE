@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm Fatima Riaz, a results-driven software enginee
 - Portfolio: [Fatima Riaz (Portfolio Website)](https://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html))
 - Work Status: US Citizen
 
-## Summary
-
-I am a dependable and results-driven software engineer with a proven track record of implementing automated testing practices to reduce manual testing efforts and enhance code quality. My expertise includes collaborating with cross-functional teams, documentation, and strategic planning. I excel in delivering sustainable technological solutions and exceeding expectations.
-
 ## Experience
 
 ### Backend Development and Agile Methodologies
