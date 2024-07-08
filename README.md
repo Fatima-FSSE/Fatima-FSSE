@@ -15,12 +15,14 @@ Experienced software engineer with a background in backend development and autom
 
 ## About Me
 
-- Location: Houston, Texas, USA
-- Email: [fatima_gatech@outlook.com](mailto:fatimariaz_gatech@outlook.com)
-- LinkedIn: [linkedin.com/in/fatima-riaz/](https://www.linkedin.com/in/fatima-riaz/)
-- GitHub: [github.com/Fatima-FSSE](https://github.com/Fatima-FSSE)
-- Portfolio: [Fatima Riaz (Portfolio Website)](https://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html))
-- Work Status: US Citizen
+
+* 🌍  I'm based in Houston, Texas
+* 🗽  I am US Citizen
+* ![linkedin (1)](https://github.com/Fatima-FSSE/Fatima-FSSE/assets/130332629/615b5aaf-3fff-4994-b72a-0b199afe7a63)    Visit my LinkedIn profile at: [linkedin.com/in/fatima-riaz/](https://www.linkedin.com/in/fatima-riaz/)
+* 🖥️  See my portfolio at [https://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html](http://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html)
+* ✉️  You can contact me at [fatimariaz\_gatech@outlook.com](mailto:fatimariaz_gatech@outlook.com)
+* 🚀  I'm currently working on [Moodify (Full Stack Web Application)](http://github.com/Fatima-FSSE/moodify)
+* ⚡  I am a DIY'er and love my tools more than my bags and shoes.
 
 ## Experience
 
@@ -89,3 +91,16 @@ Oracle sample data for testing purposes.
 <p align="left"> <a href="https://www.github.com/Fatima-FSSE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fatima-riaz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/FatimaGatech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Fatima-FSSE"><img src="https://github-readme-stats.vercel.app/api?username=Fatima-FSSE&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fatima-FSSE's GitHub stats" /></a>
+
+<a href="http://www.github.com/Fatima-FSSE"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-FSSE&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Fatima-FSSE" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-FSSE&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Fatima-FSSE/moodify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fatima-FSSE&repo=moodify&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Fatima-FSSE/Keeper-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Fatima-FSSE&repo=Keeper-React&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
