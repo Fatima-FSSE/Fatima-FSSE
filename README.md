@@ -5,7 +5,9 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Fatima Riaz, a results-driven software engineer passionate about developing reliable and scalable software solutions. I have a strong background in backend development, web services, automated testing, technical support, and documentation.
+Experienced software engineer with a background in backend development and automation testing. Earned an MS in Computer Science from Georgia Tech and developed skills in Spring Boot, RESTful APIs, Selenium, and Cucumber at PROS Inc. Additionally, expanded expertise in front-end development through continuous learning, with full-stack applications showcased on GitHub. Seeking opportunities in full-stack development to leverage technical expertise and collaborative skills.
+
+
 
 ## About Me
 
@@ -18,26 +20,25 @@ Welcome to my GitHub profile! I'm Fatima Riaz, a results-driven software enginee
 
 ## Experience
 
+### PROS Inc. Houston, Texas
+Software Engineer I (Back-end Developer) Jan 2020 - Oct 2022
 ### Backend Development and Agile Methodologies
 
-- Employed agile methodologies to oversee project progress.
-- Proficient knowledge of web application and web services architecture.
-- Collaborated with the development of RESTful API services and backend business layers using Spring Boot and web services.
-- Contributed to project scope definition, planning, estimation, and tracking.
-- Generated thorough documentation following company standards.
+- Participated in agile methodologies, stand-up meetings, and project tracking.
+- Developed RESTful API services and backend business layers using Spring Boot and added comprehensive
+documentation adhering to company standards.
 
 ### Automation Testing and Quality Assurance
 
-- Developed an Automation Framework using Cucumber BDD, Junit, Gherkin, Java, and Selenium WebDriver.
-- Experienced in using POSTMAN for RESTful Web services/REST API testing.
-- Analyzed Jenkins automation reports, offering technical support to identify and resolve bugs and issues.
-- Led the implementation of the Page Object Model (POM) for UI testing and quality assurance.
-- Collaborated on crafting SQL and Oracle sample data for testing purposes.
+- Developed automation frameworks using Cucumber BDD, Junit, Gherkin, Java, and Selenium WebDriver.
+- Conducted RESTful API testing with POSTMAN and implemented the Page Object Model for UI testing and quality
+assurance resulting in a 15% increase in success rates. Also analyzed Jenkins automation reports.
 
 ### Team Collaboration and Skill Acquisition
 
-- Conducted effective retrospective meetings and contributed to smoke testing for API and UI.
-- Mastered a new technology stack within two months, including Selenium, Cucumber, and Gherkin, enhancing the team's capabilities and efficiency.
+- Conducted retrospective meetings, contributed to smoke testing for API and UI, and collaborated on crafting SQL and
+Oracle sample data for testing purposes.
+- Mastered a new technology stack within two months, including Selenium, Cucumber, and Gherkin.
 
 ## Education
 
@@ -64,11 +65,9 @@ Welcome to my GitHub profile! I'm Fatima Riaz, a results-driven software enginee
 ## Technical Skills
 
 - **Languages**: Java, C++, Python, C
-- **Web**: JavaScript, HTML, CSS, Bootstrap, jQuery, Node.js, React.js
-- **Tools**: Selenium, Cucumber, Gherkin, Gradle, Git, GitHub, IntelliJ, Eclipse
+- **Web**: JavaScript(Node.js, React.js), HTML, CSS (Bootstrap)
+- **Tools**: Selenium, Cucumber, Gherkin, Gradle, Git, GitHub, IntelliJ, Eclipse, Jira, Jenkins, TeamCity, Confluence
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Operating Systems**: Windows, Unix, Linux
-- **Project Management**: Jira, Jenkins, TeamCity, Confluence
 
 ## Certificates
 
