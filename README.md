@@ -15,7 +15,7 @@ Experienced software engineer with a background in backend development and autom
 
 ## About Me
 
-- Location: Sugar Land, Texas, USA
+- Location: Houston, Texas, USA
 - Email: [fatima_gatech@outlook.com](mailto:fatimariaz_gatech@outlook.com)
 - LinkedIn: [linkedin.com/in/fatima-riaz/](https://www.linkedin.com/in/fatima-riaz/)
 - GitHub: [github.com/Fatima-FSSE](https://github.com/Fatima-FSSE)
