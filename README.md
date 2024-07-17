@@ -4,9 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-![GitHub followers](https://img.shields.io/github/followers/Fatima-FSSE?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/fatima_riaz?style=social)
-
 ## Introduction
 
 Experienced software engineer with a background in backend development and automation testing. Earned an MS in Computer Science from Georgia Tech and developed skills in Spring Boot, RESTful APIs, Selenium, and Cucumber at PROS Inc. Additionally, expanded expertise in front-end development through continuous learning, with full-stack applications showcased on GitHub. Seeking opportunities in full-stack development to leverage technical expertise and collaborative skills.
