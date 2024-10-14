@@ -16,7 +16,7 @@ Experienced software engineer with a background in backend development and autom
 * 🌍  I'm based in Houston, Texas
 * 🗽  I am US Citizen
 * ![linkedin (1)](https://github.com/Fatima-FSSE/Fatima-FSSE/assets/130332629/615b5aaf-3fff-4994-b72a-0b199afe7a63)    Visit my LinkedIn profile at: [linkedin.com/in/fatima-riaz/](https://www.linkedin.com/in/fatima-riaz/)
-* 🖥️  See my portfolio at [https://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html](http://fatima-fsse.github.io/FatimaRiazPortfolio.github.io/index.html)
+* 🖥️  See my portfolio at [https://www.fatimariaz.com](https://www.fatimariaz.com)
 * ✉️  You can contact me at [fatimariaz\_gatech@outlook.com](mailto:fatimariaz_gatech@outlook.com)
 * 🚀  I'm currently working on [Moodify (Full Stack Web Application)](http://github.com/Fatima-FSSE/moodify)
 * ⚡  I am a DIY'er and love my tools more than my bags and shoes.
